@@ -7,3 +7,9 @@ navbar:
       href: index.html
     - text: "About Me"
       href: about.html
+    - text: "Textbook"
+      href: textbook.html
+output: 
+  html_document:
+    css: style.css
+    theme: journal

@@ -2,4 +2,17 @@
 title: "About me"
 ---
 
-Why I am awesome.
+[![](curriculum-vitae.png#thumbnail)](http://enplatablanca.blogspot.com)
+
+
+Roberto Fortich Mesa is a data analyst who advises companies in financial risk simulation, with over 15 years of experience in industry and academia.  His background is in the teaching of economics (he holds a PhD(c) in economics at Universidad del Rosario, Colombia), with a varied mix of skills developed over the years, in science communication, data management, data visualization, business applications of data science, decision theory, writing and editing. 
+
+Roberto's research interests are the *funding of innovation*, and the study of *controlling shareholders*.  He is a former editor of the *Economía y Región* journal, as well as former Director of the Instituto de Estudios para el Desarrollo at Universidad Tecnológica de Bolívar, Colombia. 
+
+He has published nine peer-reviewed papers, book reviews, and over 55 op eds (they are archived at [roberto's blog](https://enplatablanca.blogspot.com)). He is the main author of the online textbook ["Teoría de la decisión con ciencia de datos"](https://github.com/rfortich/textbook_teoria_decision_ciencia_datos/blob/main/decision_theory_textbook_fortich_etal_2021.pdf) along with coauthors [José Vergara](https://www.utb.edu.co/profesores/jose-julio-vergara-arrieta/) and [Julio Hurtado](https://www.utb.edu.co/profesores/julio-seferino-hurtado-marquez-2/). The topic of a series of his blog posts on the coverage of the lab leak theory of SARS-CoV-2 origin were [featured in the Australian News Media](https://www.cnet.com/features/wikipedia-is-at-war-over-the-coronavirus-lab-leak-theory/)  in 2021.
+
+In regards to data analysis, Roberto works with the R programming language, in which he has expertise on the packages dplyr, ggplot2, and tidyr. He has developed projects in financial simulations with risk (Monte Carlo simulations with R), the teaching of data management in R, the teaching causal inference (static data panel, exact matching) and has a beginner knowledge of Python programming. A portfolio of projects is displayed in [his Github account](https://github.com/rfortich).
+
+![](profile.jpg#big)
+
+<div>Iconos diseñados por <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.es/" title="Flaticon">www.flaticon.es</a></div>)

@@ -1,0 +1,35 @@
+---
+title: "Textbook"
+---
+
+Link to the PDF: [Right click here to download a copy of "Teoria de la decision con ciencia de datos"](https://github.com/rfortich/textbook_teoria_decision_ciencia_datos/blob/main/decision_theory_textbook_fortich_etal_2021.pdf) for personal use, please do not distribute without authorization, and always cite appropiately where citing is due.
+
+## How it started
+
+I started writing a textbook in late 2017 as a way to take my course notes on *Theory of uncertainty and risk*, that I used to teach at a local University, and take them to the next level in terms of publication platforms.  It seemed obvious that I had to write them in LaTeX, using its book template capabilities.  
+
+Both the initial course notes and the resulting LaTeX textbook are on the topic of approaching uncertainty and risk to make decisions in business.  This approach is mainly grounded in Economics, and I will expand a description of the book contents in a section below.  Regarding the creative process, I remember coming up with the main ideas after collaborating on teaching multiple groups of the course with my colleague Carolina Barrios, who I shall give credit for inspiring the course structure and some of its content.
+
+The draft, initially of roughly a dozen pages, soon grew and grew until its current length of  almost a hundred pages, and since then I have had on board some valuable coauthors, [José Vergara](https://www.utb.edu.co/profesores/jose-julio-vergara-arrieta/) and [Julio Hurtado](https://www.utb.edu.co/profesores/julio-seferino-hurtado-marquez-2/), for the whole book, and Pedro Castilla and Leonardo Castellanos for some individual chapters. I'm also thankful to Alejandra Rojas Toro and Julián Caro Ortega for their assistance in the data collection part of the first chapter, which they fulfilled as part of their coursework. 
+
+## Content
+The textbook, written in spanish, is called *Teoría de la decisión con ciencia de datos*.  It is largely concerned in explaining how decision theory is grounded on probabilistic notions, except for the last two chapters, which delve into specific applications, mainly: 
+
+* Spreadsheet-based tools to deal with uncertain scenarios
+* Monte Carlo simulations of financial projects
+* ... And a lot of random-number-generations antics using the R programming language.  
+
+An example of a spreadsheet-based simulation of an uncertain scenario is at the heart of a local scandal that has received a lot of national press: the prolongation of the franchise given to a private company in a toll road in Cartagena, Colombia.  
+
+The road toll was licensed to a company named *Concesion vial* in 1998, and it was designed to expire as soon as certain values of the Internal Rate of Return (IRR) were reached  *Concesión vial* has been accused of taking advantage of the fact that IRR computations for future projects can not be made with certainty.  A more proper initial contract, would have specified a complete financial simulation that dealt with ranges of uncertainty in the different input variables that let the franchised company attain the desired IRR level.   It is for this kind of situations, that risk modeling the uncertianty with spreadsheets would have come in handy.
+
+Other than this practical applications, I am proud of the way we portray the communication of likelihood asssesments in the first chapter.  I personally feel that calibration of uncertainty is at the core of improving research impact. I am preparing a blog post soon on this topic.  
+
+## Final reflections about self-publishing
+I have been trying to jump on the technological wagon since 2015, when I was a Ph.D student in economics, and some evidences suggested to me that expertise in data was a career path worth considering, even though I was 34 years old then.  Writing this book by myself forced me to seriously learn a few interesting software applications.  
+
+For example, I worked with packages such as *biblatex*, *nomencl*, and *babel*. I chose the *book* document class of LaTeX, with a compartmentalized structure of chapters intertwined with a single table of contents and list of references. It is way more tricky to get this structure to work than it seems!  
+
+I enjoyed a lot learning how to display R code so that it looks pretty in LaTeX.  I will write a blog post about my experience with the *book* template of LaTeX, and the struggle to integrate it with R code.  Yes, I am aware that the alternative of RMarkdown is way simpler, but it is not the ideal alternative if one chooses to have all the final output in LaTeX, so that it can then be tweaked and edited by "LaTeX magicians" working with a publisher.
+
+I guess my overall impression after finishing the textbook has been to discover that digital typesetting is a beast in itself that has to be tackled during publishing.  I realized that in spanish we didn't even have a word for *typesetting*, the closest thing being "composición tipográfica".  If you attempt to write a book in MS Word, the draft will look like a cacophony of text fonts, margins, alignments, line spaces, and a lot of widow and orphan lines!  If you have the financial resources, the word file can be sent to a publisher, who will send it to a professional typesetter, who will take care of these details in Adobe InDesign or some other propietary software.  In order to remain in control as an author of the typesetting, learning LaTeX is the way to go (despite of it having a tough learning curve, it feels like the sanskrit of word processors!).
