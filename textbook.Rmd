@@ -26,7 +26,7 @@ The road toll was licensed to a company named *Concesion vial* in 1998, and it w
 Other than this practical applications, I am proud of the way we portray the communication of likelihood asssesments in the first chapter.  I personally feel that calibration of uncertainty is at the core of improving research impact. I am preparing a blog post soon on this topic.  
 
 ## Final reflections about self-publishing
-I have been trying to jump on the technological wagon since 2015, when I was a Ph.D student in economics, and some evidences suggested to me that expertise in data was a career path worth considering, even though I was 34 years old then.  Writing this book by myself forced me to seriously learn a few interesting software applications.  
+I have been trying to jump on the technological wagon since 2015, when I was a Ph.D student in economics, and there was a clear trend to have expertise in data as a career path worth considering. Even though I was 34 years old then, I went all in into R and LaTeX.  Writing this book by myself forced me to seriously learn a few interesting software applications.  
 
 For example, I worked with packages such as *biblatex*, *nomencl*, and *babel*. I chose the *book* document class of LaTeX, with a compartmentalized structure of chapters intertwined with a single table of contents and list of references. It is way more tricky to get this structure to work than it seems!  
 
