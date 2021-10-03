@@ -9,11 +9,3 @@ img[src*="thumbnail"] {
     display: block;
     margin: 0 auto;
 }
-
-nav ul {
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    padding: 0px;
-    list-style: none;
-    font-weight: bold;
-    margin-right: 0.5em;
-}
